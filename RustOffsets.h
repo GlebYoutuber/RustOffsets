@@ -33,8 +33,8 @@ DWORD64 semiautomatic[]{
 //DWORD64 bow = 1802482880;
 
 #define oGameObjectManager 0x17C1F18 //0x17C1F18 0x17D69F8
-#define oBaseNetworkable   50746992 //0x29BF3E0 BaseNetworkable_c* 3065630
-#define oConVar 50742120 //ConVar_Graphics_c*
+#define oBaseNetworkable   0x29BF3E0 // BaseNetworkable_c* 3065630
+#define oConVar 0x3064368 //0x3064368 ConVar_Graphics_c*
 
 
 //class BasePlayer
